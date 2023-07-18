@@ -1,0 +1,11 @@
+C:\Genpact\day7\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+C:\Genpact\day7\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe
+C:\Genpact\day7\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.pdb
+C:\Genpact\day7\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+C:\Genpact\day7\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+C:\Genpact\day7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+C:\Genpact\day7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\day7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+C:\Genpact\day7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+C:\Genpact\day7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.exe
+C:\Genpact\day7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.pdb
